@@ -1,5 +1,5 @@
-# HST lens data reduction
-Data reduction for _HST_ WFC3 images of strong lenses.
+# _HST_ lens data reduction
+Data reduction for _Hubble Space Telescope_ (_HST_) WFC3 images of strong lenses.
 
 The three notebooks show how to: 
 
